@@ -18,7 +18,7 @@ Created with:
 * Install Go language from the official website. https://golang.org/ 
 * In windows Command Prompt change directory to the folder where the two files located.
 * Type command "go run Filename.go"
-* Open browser type the localhost address with 8000 port.
+* Open browser type the localhost address with 8000/agg port.
 
 ## Reference:
 * https://www.youtube.com/user/sentdex
